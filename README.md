@@ -2,7 +2,7 @@
 Change the dataSource from Web.config file in WebApiProject
 Create virtual directory in IIS from WebApiProject for http://localhost/WebApiProject
 Create a database: "EvoDB"
-Change the datasource name from App.config in WebApiProject/EvoRepository
+Change the datasource name from App.config in WebApiProject/EvoRepository and Webapiproject/Webapiproject.Tests
 Run the script "Table Creation Script"
 Run the solution EvoClientSPA
 

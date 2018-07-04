@@ -1,0 +1,9 @@
+C:\Users\P10397917\documents\visual studio 2015\Projects\WebApiProject\EvoRepository\bin\Debug\EvoRepository.dll.config
+C:\Users\P10397917\documents\visual studio 2015\Projects\WebApiProject\EvoRepository\bin\Debug\EvoRepository.dll
+C:\Users\P10397917\documents\visual studio 2015\Projects\WebApiProject\EvoRepository\bin\Debug\EvoRepository.pdb
+C:\Users\P10397917\documents\visual studio 2015\Projects\WebApiProject\EvoRepository\bin\Debug\EntityFramework.dll
+C:\Users\P10397917\documents\visual studio 2015\Projects\WebApiProject\EvoRepository\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\P10397917\documents\visual studio 2015\Projects\WebApiProject\EvoRepository\bin\Debug\EntityFramework.xml
+C:\Users\P10397917\documents\visual studio 2015\Projects\WebApiProject\EvoRepository\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\P10397917\documents\visual studio 2015\Projects\WebApiProject\EvoRepository\obj\Debug\EvoRepository.dll
+C:\Users\P10397917\documents\visual studio 2015\Projects\WebApiProject\EvoRepository\obj\Debug\EvoRepository.pdb
